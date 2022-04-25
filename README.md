@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayselrajabli
+- 👋 Hi, I’m Aysel Rajabli
 - 👀 I’m interested in Machine learning and Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning.
 - 📫 How to reach me ayselracabli01@gmail.com
