@@ -4,5 +4,4 @@
 - Linkedin: https://www.linkedin.com/in/ayselrajabli/
 - Hackerrank: https://www.hackerrank.com/AyselRajabli
 - LeetCode: https://leetcode.com/ayselrajabli/
-- Tableau Public: https://public.tableau.com/app/profile/aysel.rajabli
 
